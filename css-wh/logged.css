@@ -1,0 +1,179 @@
+@font-face {
+	font-family:hwxw;
+	src:url('../fonts/hwxw.ttf') format('truetype');
+}
+*{font-family: hwxw;}
+
+
+.top-nav{
+	float: right;
+}
+
+#title{
+	padding: 0px;
+	height: 140px;
+	background: #f97197;
+}
+
+span img{
+	width: 30px;
+	height: 30px;
+}
+
+.login-and-register{
+	margin: 50px 0px 0px 80px;	
+}
+
+.login-and-register a {
+	padding: 5px 30px 5px 30px;
+	margin: 0px 5px 0px 5px;
+	border: solid 1px #f98bad;;
+	border-radius: 10px;
+}
+
+.information{
+	display: block;
+
+}
+
+#presonal-information .member{
+	margin-left: 5px;
+
+	border: solid 1px white;
+	border-radius: 5px ;
+}
+
+
+#presonal-information{
+	width: 360px;
+	border: none;
+	background: url(../img-login/bilibili.png) no-repeat;
+	background-size: 200px 90px;
+	background-position: 100px 10px;
+	background-color:#f97197;
+	margin: 0px 0px 0px 0px;
+	height: 90px;
+	padding-left: 10px;
+	float: left;
+	
+}
+
+#presonal-information li{
+	float: left;
+	list-style: none;
+	font-size: 15px;
+	color: white;
+	padding-left: 0px;
+}
+
+#head-portrait{
+	height: 90px;
+	width: 90px;
+}
+
+#LV{
+	height: 20px;
+	width: 30px;
+}
+
+#three-btn{
+	background: white;
+	margin-top: 130px;
+	border: none;
+}
+
+#three-btn li{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	border: none;
+	list-style: none;
+}
+
+#my-0{
+	padding-top: 182px;
+}
+
+#my-0 ul {
+	padding-left: 0px;
+	border: none;
+	text-align: center;
+}
+
+#my-0 ul li:first-child{
+	text-align: left;
+}
+
+#my-0 ul li{
+	list-style: none;
+	border: none;
+}
+
+#my-0-1{
+	width: 80px;
+	padding-left: 25px;
+}
+
+#submission{
+	
+	color: #f97197;
+	border-color: #f97197;
+	border-radius: 5px;
+}
+
+#submission:link, #submission:visited{
+	color: #f97197
+}
+
+#submission:hover, #submission:active{
+	color: #f97197;
+	background: white;
+}
+
+#my{
+	padding-top: 7px;
+}
+
+#my ul {
+	padding-left: 0px;
+	border: none;
+}
+
+#my ul li{
+	list-style: none;
+	border: none;
+}
+
+#my-2{
+	padding-top: 7px;
+}
+
+#my-2 ul {
+	padding-left: 0px;
+	border: none;
+	margin-left: 3px;
+}
+
+#my-2 ul li{
+	list-style: none;
+	border: none;
+
+}
+
+#my-2-2{
+	margin-left: 4px;
+}
+
+#my-2-3{
+	margin-left: 2px;
+}
+
+
+.top-nav a{
+	color: white;
+}
+
+
+
+#cc1{
+	padding-top: 1px;
+}

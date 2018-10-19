@@ -1,0 +1,26 @@
+
+#btnimg{
+	width: 23px;
+	padding-top: 5px;
+}
+
+#btna{
+	text-align: center;
+}
+
+#btna:link,#btna:visited{
+	color: gray;
+}
+
+#btna:hover{
+	color: deeppink;
+}
+#btn{
+	text-align: center;
+	
+}
+#btn font{
+	display: block;
+	font-size: 14px;
+	
+}

@@ -1,0 +1,88 @@
+@font-face {
+	font-family:hwxw;
+	src:url('../fonts/hwxw.ttf') format('truetype');
+}
+*{font-family: hwxw;}
+
+.dytext{padding-left: 170px;
+		padding-top: 10px;
+		font-size: 18px;
+		color: white;
+		}
+
+.my{font-weight: 700;}
+.look{padding-left: 250px;}
+
+.submission1{margin-top: 12px; background: white;float: left;}
+.Lexburener{font-weight: 700;}
+.lexburenerdo{color: gray;font-size: 12px;padding-left: 8px;}
+.lexburnersay{padding-left: 20px;}
+#lilx{width: 350px;}
+
+.leximg{
+		width: 100px;}
+.lexx{background: white;
+	padding-top: 10px;}
+
+.mui-table-view-cell{float: left;}
+.firstw{background: white;}
+.lexburnersay{float: left;}
+
+.secondw ul li{background: white;margin-top: 10px;width: 410px;}
+.submission-name1 ul li{width: 430px;}
+.secondw{width: 400px;float: left;}
+.secondp{float:left;padding:10px;}
+
+#it3search{background: white;}
+#secondx ul li{background: white;width: 410px;}
+#itpb{height:120px;background: white ;}
+
+#China{float: left;}
+
+
+#headervip{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+#headervip li{
+	
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+#headervip li img{
+	width: 30px;
+	height: 30px;
+	padding: 0px;
+	margin-top: 5px;
+}
+
+#top1{
+	margin-right: 5px;
+}
+
+#top2{
+	margin-left: 5px;
+}
+
+#top3{
+	margin-left: 5px;
+}
+
+#inner_search{
+	width: 100px;
+	float: left;
+	color: white;
+	margin-top: 10px;
+	margin-left: 85px;
+	margin-right: 50px;
+	color: brown;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	
+}

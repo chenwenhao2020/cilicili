@@ -1,0 +1,105 @@
+@font-face {
+	font-family:hwxw;
+	src:url('../fonts/hwxw.ttf') format('truetype');
+}
+*{font-family: hwxw;}
+
+
+.top-nav{
+	float: right;
+}
+
+#title{
+	height: 100px;
+	background: #f97197;
+}
+
+.login-and-register{
+	margin: 50px 0px 0px 64px;	
+}
+
+.login-and-register a {
+	padding: 5px 30px 5px 30px;
+	margin: 0px 5px 0px 5px;
+	border: solid 1px #f98bad;;
+	border-radius: 10px;
+}
+
+.login-and-register .login:link , .login-and-register .login:visited{
+	background-color: white;
+	color: #f98bad;
+}
+
+.login-and-register .login:hover , .login-and-register .login:active{
+	background-color: white;
+	color: #f97197;
+}
+
+.login-and-register .register:link , .login-and-register .register:visited{
+	background-color: #f98bad;
+	color: white;
+}
+
+.login-and-register .register:hover , .login-and-register .register:active{
+	background-color: pink;
+	color: white;
+}
+
+#my{
+	padding-top: 110px;
+}
+
+#my ul {
+	padding-left: 0px;
+	border: none;
+}
+
+#my ul li{
+	list-style: none;
+	border: none;
+}
+
+#font-icon{
+	
+}
+
+#my-2{
+	padding-top: 7px;
+}
+
+#my-2 ul {
+	padding-left: 0px;
+	border: none;
+	margin-left: 3px;
+}
+
+#my-2 ul li{
+	list-style: none;
+	border: none;
+
+}
+
+#my-2-2{
+	margin-left: 4px;
+}
+
+#my-2-3{
+	margin-left: 2px;
+}
+
+
+span img{
+	width: 30px;
+	height: 30px;
+}
+
+.top-nav a{
+	color: white;
+}
+
+
+
+
+#cc1{
+	padding-top: 1px;
+}

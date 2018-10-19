@@ -1,0 +1,115 @@
+{
+  "zoudiu.html": {
+    "href": "zoudiu.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "priority": 0
+  },
+  "set-up-themes.html": {
+    "href": "set-up-themes.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 12
+  },
+  "we.html": {
+    "href": "we.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 14
+  },
+  "set-up.html": {
+    "href": "set-up.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 13
+  },
+  "logged.html": {
+    "href": "logged.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 15
+  },
+  "login.html": {
+    "href": "login.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 14
+  },
+  "not-logged.html": {
+    "href": "not-logged.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [
+      "not-logged.html"
+    ],
+    "priority": 11
+  },
+  "vip.html": {
+    "href": "vip.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 7
+  },
+  "trends.html": {
+    "href": "trends.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 4
+  },
+  "channel.html": {
+    "href": "channel.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 2
+  },
+  "play.html": {
+    "href": "play.html",
+    "resources": [
+      "css/mui.min.css",
+      "fonts/mui.ttf",
+      "css-wh/set-up-themes.css",
+      "fonts/hwxw.ttf",
+      "img-set-up-themes/p1.png",
+      "img-set-up-themes/p2.png",
+      "img-set-up-themes/p3.png",
+      "img-set-up-themes/p4.png",
+      "img-set-up-themes/p5.png",
+      "css/play.css",
+      "img/play1.png",
+      "js/mui.min.js",
+      "img/playbutton.png",
+      "img/play3.png",
+      "img/pinglun3.png",
+      "img/pinglun1.png",
+      "img/pinglun2.png"
+    ],
+    "refer": [],
+    "priority": 6
+  },
+  "homepage.html": {
+    "href": "homepage.html",
+    "resources": [
+      "fonts/hwxw.ttf"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}

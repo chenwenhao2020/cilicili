@@ -1,0 +1,75 @@
+@font-face {
+	font-family:hwxw;
+	src:url('../fonts/hwxw.ttf') format('truetype');
+}
+*{font-family: hwxw;}
+
+
+#title-set-up-themes{
+	background: #f97197;
+	
+}
+
+#title-set-up-themes a{
+	color: white;
+}
+
+#title-set-up-themes h1{
+	color: white;
+}
+
+
+
+label{
+	font-size: 15px;
+	height: 50px;
+	width: 200px;
+}
+
+#radio1{
+	margin-top: 10px;
+	color: pink;
+}
+
+P{
+	color: darkgray
+	padding: 0px;
+	margin: 10px 0px 10px 10px;
+}
+
+#a-p1{
+	background: url(../img-set-up-themes/p1.png) no-repeat 8px 5px;
+	background-size: 30px;
+	padding-left: 45px;
+	font-size: 15px;
+}
+
+#a-p2{
+	background: url(../img-set-up-themes/p2.png) no-repeat 8px 5px;
+	background-size: 30px;
+	padding-left: 45px;
+	font-size: 15px;
+}
+
+#a-p3{
+	background: url(../img-set-up-themes/p3.png) no-repeat 8px 5px;
+	background-size: 30px;
+	padding-left: 45px;
+	font-size: 15px;
+}
+
+#a-p4{
+	background: url(../img-set-up-themes/p4.png) no-repeat 8px 5px;
+	background-size: 30px;
+	padding-left: 45px;
+	font-size: 15px;
+}
+
+#a-p5{
+	background: url(../img-set-up-themes/p5.png) no-repeat 8px 5px;
+	background-size: 30px;
+	padding-left: 45px;
+	font-size: 15px;
+}
+
+
